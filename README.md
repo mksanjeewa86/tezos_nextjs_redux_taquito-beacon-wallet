@@ -1,0 +1,2 @@
+# tezos_nextjs_redux_taquito-beacon-wallet
+tezos_nextjs_redux_taquito-beacon-wallet
